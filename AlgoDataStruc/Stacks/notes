@@ -1,0 +1,5 @@
+Stacks can be implemented by linked lists. Linked lists contain a value and the reference to the next node.
+This structure would mean there would be a pointer to the head node, and then items would be added and removed from the head.
+
+Queues are similar in that there would be a pointer to the head, however, there would also be a pointer to the tail since objects are dequeued
+at the opposite end that they are enqueued.
